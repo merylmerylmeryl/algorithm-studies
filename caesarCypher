@@ -1,0 +1,3 @@
+def caesarCyper(string):
+    tempList = list(string)
+    print(tempList)
